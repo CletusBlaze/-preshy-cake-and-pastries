@@ -150,7 +150,7 @@ The contact form uses **Formspree** to deliver messages to the business email.
 | Email | Preciousivie753@gmail.com |
 | WhatsApp | [wa.me/23409052610553](https://wa.me/23409052610553) |
 | TikTok | [@ivie861](https://www.tiktok.com/@ivie861) |
-| Location | New Lagos Road, Benin City, Nigeria |
+| Location | 98 Medical Store Road, Benin City, Edo State |
 | Hours | Mon - Sat: 9AM - 7PM |
 
 ---
@@ -201,6 +201,15 @@ This site is optimized for Netlify with:
 ## 📄 License
 
 This website was custom-built for Preshy Cakes & Pastries. All rights reserved.
+
+---
+
+## 🔒 Security
+
+- All `target="_blank"` links include `rel="noopener noreferrer"` to prevent reverse tabnabbing
+- Google Maps iframe uses `sandbox` attribute to restrict embedded content
+- No credentials, API keys, or sensitive data exposed in code
+- Static site architecture — minimal attack surface
 
 ---
 
